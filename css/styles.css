@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2? family=Akshar:wght@400;600&display=swap');
+body{font-family: 'Akshar', sans-serif; padding: 0 20px 20px 20px;}
+.logo{width: 90px; height: 80px;}
+#banner{width: auto;}
+#descripcion{text-align: center; padding: 20px 0 20px 0;}
+#acercaDe{border-left: 1px solid black;}
+#experiencia{background-color: #defbf4; padding: 20px 15px 20px 15px; border-top: 1px solid black; border-bottom: 1px solid black}
+#estudios{background-color: #f0defb; padding: 20px 15px 20px 15px; border-bottom: 1px solid black;}
+#habilidades{background-color: #d9d9d9; padding: 20px 15px 20px 15px; border-bottom: 1px solid black;}
+#proyectos{background-color: #fecece; padding: 20px 15px 20px 15px;}
+img{display:block; max-width:100%; height:auto;}
